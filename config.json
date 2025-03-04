@@ -55,6 +55,24 @@
           ]
         }
       ]
+    },
+		{
+      "sidebarRef": "apiReference",
+      "categories": [
+        {
+          "categoryName": "Introduction",
+          "pages": [
+            "getting-started/overview"
+          ]
+        },
+        {
+          "categoryName": "Endpoints",
+          "pages": [
+            "reference/example/get-items",
+            "reference/example/create-item"
+          ]
+        }
+      ]
     }
   ]
 }
