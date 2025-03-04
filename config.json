@@ -18,7 +18,7 @@
     "logoSize": "medium",
     "navbarMode": "tabbed"
   },
-  "apiFiles": [],
+  "apiFiles": ["https://raw.githubusercontent.com/PaloAltoNetworks/docusaurus-openapi-docs/refs/heads/main/demo/examples/petstore.yaml"],
   "homepage": "/introduction",
   "changelog": false,
   "navbar": [
